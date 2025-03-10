@@ -1,4 +1,4 @@
-# 🚀 Yantr-Nvim: The Most Minimal & Productive Neovim Configuration  
+# 🚀 Yantra0011-Nvim: The Most Minimal & Productive Neovim Configuration  
 
 Welcome to **Yantr-Nvim**, a **lightweight**, **blazingly fast**, and **highly customizable** Neovim setup.  
 This configuration is designed for **power users**, **developers**, and **vim enthusiasts** who love efficiency.  
@@ -9,9 +9,9 @@ This configuration is designed for **power users**, **developers**, and **vim en
 
 For the best visuals, **ensure your terminal supports true colors** (24-bit). Here are some recommended terminals:  
 
-✅ **macOS**: iTerm2, Kitty, Alacritty, WezTerm  
-✅ **Linux**: Kitty, Alacritty, WezTerm, Tilix  
-✅ **Windows**: Windows Terminal, WezTerm, Alacritty  
+✅ **macOS** [🍎] : iTerm2, Kitty, Alacritty, WezTerm  
+✅ **Linux** [🐧]: Kitty, Alacritty, WezTerm, Tilix  
+✅ **Windows** [🪟]: Windows Terminal, WezTerm, Alacritty  
 
 Check if your terminal supports **true color** with this command:  
 
@@ -23,7 +23,7 @@ nvim --version | grep term
 
 ## 📂 **File Structure**  
 
-Here’s how the **Yantr-Nvim** files are structured:  
+Here’s how the **Yantra0011-Nvim** files are structured:  
 
 ```
 📦 yantr-nvim/
